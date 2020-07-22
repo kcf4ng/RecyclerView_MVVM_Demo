@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerView_MVVM_Demo</string>
+    <string name="normal_mvc">Normal (MVC)</string>
+    <string name="mvvm">MVVM</string>
+</resources>
